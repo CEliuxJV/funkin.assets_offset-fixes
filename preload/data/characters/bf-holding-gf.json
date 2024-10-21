@@ -62,7 +62,7 @@
       "name": "firstDeath",
       "prefix": "BF Dies with GF",
       "assetPath": "characters/bfHoldingGF-DEAD",
-      "offsets": [24, 40]
+      "offsets": [24, 30]
     },
     {
       "name": "deathLoop",
@@ -75,7 +75,7 @@
       "name": "deathConfirm",
       "prefix": "RETRY confirm holding gf",
       "assetPath": "characters/bfHoldingGF-DEAD",
-      "offsets": [22, 44]
+      "offsets": [24, 44]
     }
   ]
 }
